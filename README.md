@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divafir&show_icons=true&locale=en" alt="divafir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divafir&" alt="divafir" /></p>
+
+
+https://www.notion.so/Full-stack-web-developer-0ca19ec17baf4231b225a40f86f6e82b
